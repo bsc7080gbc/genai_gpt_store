@@ -26,6 +26,18 @@ Purpose is to serve as a collaborative tool that enhances your creative process.
 
 ---
 
+Archetype Ranker
+
+https://chatgpt.com/g/g-67aab3f3f10481919228c396160ff073-archetype-ranker
+
+Discover your dominant archetype by guiding you through a structured assessment that measures five key traits: Empathy (E), Skills (S), Independence (I), Wisdom (W), and Creativity (C).
+
+At the end of the quiz, analyzes your responses to determine the best-fit archetype and provide an in-depth explanation of its meaning. Also generate a custom tarot-style image inspired by your archetype and choices.
+
+You can choose a short (10 questions), medium (25 questions), or long (50 questions) assessment.
+
+---
+
 Mega Persona Hive Mind
 
 https://chat.openai.com/g/g-SR5nbGtc0-l3g10n-community-hive-mind
